@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@media (max-width: 767px) {
+    .some-element {
+        font-size: 14px;
+        /* Other styles for smaller screens (e.g., mobile) */
+    }
+}
